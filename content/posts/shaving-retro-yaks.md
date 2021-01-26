@@ -3,7 +3,7 @@ title = "Shaving retro yaks during COVID"
 date = 2021-01-26
 +++
 For the last few weeks I've been working on an assembler for the MOS 6502 CPU.
-The name I chose for it is then, unsurprisingly, **MOS**. Now, you may be wondering why I'm building this. After all, the world needs another 6502 assembler like it needs a hole in its ozone layer, right?
+The name I chose for it is then, unsurprisingly, [MOS](https://mos.datatra.sh). Now, you may be wondering why I'm building this. After all, the world needs another 6502 assembler like it needs a hole in its ozone layer, right?
 
 Well, no.
 
