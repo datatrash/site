@@ -20,6 +20,7 @@ home = "home"
 
 sam_menu = [
     { text = "posts", link = "/posts" },
+    { text = "projects", link = "/projects" },
     { text = "about", link = "/about" },
     { text = "github", link = "https://github.com/sagacity" },
     { text = "linkedin", link = "https://www.linkedin.com/in/roy-jacobs-72523ba" }
