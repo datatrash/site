@@ -5,7 +5,7 @@ date = 2021-01-26
 For the last few weeks I've been working on an assembler for the MOS 6502 CPU.
 The name I chose for it is then, unsurprisingly, [MOS](https://mos.datatra.sh). Now, you may be wondering why I'm building this. After all, the world needs another 6502 assembler like it needs a hole in its ozone layer, right?
 
-Well, no.
+Well, yes.
 
 But this project isn't necessarily about practical read world use. Instead, it's probably closer to something like a [forever project](https://heredragonsabound.blogspot.com/2020/02/the-forever-project.html). It's not _supposed_ to be practical. It's also not something I originally intended to build.
 
