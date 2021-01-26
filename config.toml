@@ -1,0 +1,28 @@
+base_url = "https://datatra.sh"
+compile_sass = true
+build_search_index = false
+theme = "trash"
+title = "datatra.sh"
+generate_feed = true
+feed_filename = "rss.xml"
+
+[markdown]
+highlight_code = true
+external_links_target_blank = true
+
+[extra]
+show_word_count = true
+show_reading_time = true
+
+date_format = "%Y-%m-%d"
+
+home = "home"
+
+sam_menu = [
+    #{ text = "posts", link = "/posts" },
+    { text = "about", link = "/about" },
+    { text = "github", link = "https://github.com/sagacity" },
+    { text = "linkedin", link = "https://www.linkedin.com/in/roy-jacobs-72523ba" }
+]
+
+sam_bottom_menu = true
