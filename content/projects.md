@@ -12,3 +12,4 @@ Some of the projects I'm working on:
 * [Mashi](https://github.com/datatrash/mashi) - An experiment with [PAQ](https://mattmahoney.net/dc/)-style compression.
 * [Wasm-PNG](https://github.com/datatrash/wasm-png) - A tool to create a single HTML file from your JS/WASM application.
 * A new 64k intro and tooling surrounding that (editor, softsynth, etc)
+* [Letter Loom](https://letterloom.datatra.sh) - A cozy Android word puzzle game.
